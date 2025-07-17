@@ -1,4 +1,4 @@
-# DNS Checker Website
+# dnsapi
 
 This project is a simple DNS checker tool that allows users to check DNS settings and nameservers for a given domain. It provides a user-friendly interface and displays the results in an organized manner.
 
@@ -44,6 +44,6 @@ dns-checker-website
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-## License
+## Developer
 
-This project is licensed under the MIT License.
+This project was made by pepperz1!
