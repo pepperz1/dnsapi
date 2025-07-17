@@ -24,15 +24,15 @@ dns-checker-website
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/dns-checker-website.git
+   git clone https://github.com/pepperz1/dnsapi.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd dns-checker-website
+   cd dnsapi
    ```
 
-3. Open `index.html` in your web browser to view the application.
+3. Run Your API!
 
 ## Usage
 
