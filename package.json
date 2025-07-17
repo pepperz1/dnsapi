@@ -1,0 +1,20 @@
+{
+  "name": "dns-checker-website",
+  "version": "1.0.0",
+  "description": "A simple DNS checker website to verify DNS settings and nameservers.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "live-server ."
+  },
+  "keywords": [
+    "dns",
+    "checker",
+    "website"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
